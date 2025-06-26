@@ -3,3 +3,8 @@ TASUQILT est une application éducative destinée à toute la famille — des pl
 
 Chez Tasuqilt, nous aidons les enfants à apprendre leur langue maternelle en utilisant les technologies qu’ils aiment. Nous transformons les outils électroniques en supports éducatifs ludiques pour renforcer le lien avec le Tamazight. Notre mission : briser les barrières, transmettre la langue, et faire de chaque apprentissage un acte de préservation culturelle.
 
+
+- Niveau Pré-A1 (Découverte) : Acquisition du vocabulaire de base, introduction aux notions linguistiques élémentaires.
+- Niveau A1 (Débutant) : Développer des compétences conversationnelles pratiques et des bases grammaticales simples.
+- Niveau A2 (Intermédiaire) : Approfondir les compétences conversationnelles, enrichir le vocabulaire, découvrir la dimension culturelle.
+
